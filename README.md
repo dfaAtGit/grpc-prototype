@@ -3,7 +3,7 @@ To launch:
 - Start GrpcClientApplication.class
 - Start GrpcApplication.class
 
-localhost:9090/
+localhost:8080/
 
 - GET /sync/{text} Synchronous Call, which retrieves a string.
 - GET /async/{text} Asynchronous Call, implemented with ListenableFuture.
